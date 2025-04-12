@@ -7,7 +7,7 @@ body {
 }
 
 .super-tenue{
-  opacity: 0.85;
+  opacity: 0.45;
 }
 
 
@@ -54,7 +54,7 @@ body {
 }
 
 footer{
-  background-image: url("../img/glocken.png");
-  opacity: 0.6;
-  filter: saturate(50%);
+  background-image: url("../img/foto-bulb.png");
+  opacity: 0.8;
+
 }
