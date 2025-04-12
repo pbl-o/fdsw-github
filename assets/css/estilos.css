@@ -2,6 +2,8 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Clases multi-usos */
+
 .tenue{
   opacity: 0.85;
 }
@@ -9,7 +11,6 @@ body {
 .super-tenue{
   opacity: 0.45;
 }
-
 
 .aireado{
   letter-spacing: 16px;
@@ -53,8 +54,9 @@ body {
 
 }
 
+/* Footer */
+
 footer{
   background-image: url("../img/foto-bulb.png");
   opacity: 0.8;
-
 }
